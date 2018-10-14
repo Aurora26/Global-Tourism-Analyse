@@ -11,8 +11,8 @@
 # 一些结果图片
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/1.png" width="600" height="300" alt="Clustering" align=center />
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/2.png" width="600" height="300" alt="Word frequency" align=center />
-<img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/3.png" width="600" height="600" alt="Area of tourism" align=center />
-<img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/4.png" width="300" height="300" alt="Tourism in Europe" align=center />
+<img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/3.png" width="600" height="300" alt="Area of tourism" align=center />
+<img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/4.png" width="600" height="600" alt="Tourism in Europe" align=center />
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/5.png" width="900" height="500" alt="Level distribution of tourism " align=center />
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/6.png" width="700" height="300" alt="Learning accuracy" align=center />
 
