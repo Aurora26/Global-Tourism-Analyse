@@ -1,6 +1,6 @@
 # GTD Analysis
 
-对kaggle里的global tourism database(gtd)数据库进行量化分析 
+对kaggle里的global tourism database(gtd)数据库进行量化分析及预测等工作 
 
 # 文件说明
  * test1用于对恐怖事件进行等级划分（主要使用AHP和分箱方法）
@@ -16,4 +16,4 @@
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/5.png" width="700" height="300" alt="Level distribution of tourism " align=center />
 <img src="https://github.com/Aurora26/Global-Tourism-Analyse/blob/master/imgs/6.png" width="700" height="300" alt="Learning accuracy" align=center />
 
-*该工程主要加强了对机器学习算法的应用和理解。*
+*该工程是作者为了加强了对机器学习应用的了解及提升算法熟练度，与国家等信息无关。*
